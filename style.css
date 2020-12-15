@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Rokkitt:wght@600&display=swap');
+body{
+  font-family: 'Poppins', serif;
+
+font-size: 17px;
+background-color: rgb(230, 109, 109);
+}
+
+.identity1{
+     overflow: auto;
+}
+  
+.image{
+    float:left;
+    padding: 0px 20px 20px 20px;
+
+}
+
+.bgcontent
+  {
+    position: relative;
+    padding-top: 8%;
+    padding-bottom: 6%;
+    margin-top: 40px;
+    margin-bottom: 12%;
+    background-color: rgb(230, 109, 109);
+    max-width: 660px;
+    border-radius: 70px;
+    box-shadow:  10px 10px 14px rgb(243, 213, 213), 
+             -8px -10px 20px rgb(151, 80, 80);
+    
+
+}
+
+
+
+.fontsty
+
+  {
+    
+    color:white;
+    font-size: 250%;
+    
+    
+  
+
+}
+  
+
+h2{
+    font-size: 22px;
+    font-style: inherit;
+    
+
+}
+ 
+
+.fst{
+  
+
+font-size: 1.2rem;
+text-align: center;
+
+}
+
+  h4{
+    font-size: 40px;
+    font-style: inherit;
+
+  }
+.row{
+    text-align: center;
+}
+
+  

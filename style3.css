@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+  .container{
+      padding-top: 10%;
+      padding-right: 10%;
+  }
+  .jumbotron{
+      text-align: center;
+  }
+  a{
+      color: white;
+  }
+  h1
+  {
+    font-family: 'Poppins', cursive;
+    
+  }

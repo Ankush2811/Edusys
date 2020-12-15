@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Rokkitt:wght@600&display=swap');
+body{
+    font-family: 'Poppins', cursive;
+    text-align: center;
+    background-color:rgb(230, 109, 109); 
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    
+}
+.container2{
+    text-align: center;
+}
+
+
+h1 {
+  font-family: 'Poppins', cursive;
+    text-decoration: none;
+  
+  }
+  form li {
+  list-style: none;
+  margin-bottom: 5px;
+  }
+  
+
+  .registerbtn {
+    background-color: rgb(42, 96, 211);
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 30%;
+    opacity: 0.9;
+  }
+  
+  .registerbtn:hover {
+    opacity: 1;
+  }
+  
+@media screen and (max-width: 375px) {
+    .form textarea{
+        
+        width: 80%;
+    }
+    
+    .registerbtn{
+        width: 80%;
+    }
+}
+  
